@@ -1,3 +1,14 @@
+---
+title: FreeGPT WebUI  
+emoji: 🚀  
+colorFrom: blue  
+colorTo: yellow  
+sdk: docker  
+sdk_version: 1.24.0  
+app_file: run.py  
+pinned: true  
+---
+
 # FreeGPT WebUI 
 ## GPT 3.5/4
 
